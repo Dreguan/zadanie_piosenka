@@ -1,0 +1,187 @@
+commit 2023140cade04e1e2070759fd03125a87daed387
+Author: Marta Skibicka <marta.skibicka.contact@gmail.com>
+Date:   Thu Apr 29 20:12:33 2021 +0200
+
+    przeniesienie pierwszej zwrotki
+
+diff --git a/zwrotka1.txt b/zwrotka1.txt
+new file mode 100644
+index 0000000..fba16ae
+--- /dev/null
++++ b/zwrotka1.txt
+@@ -0,0 +1,24 @@
++Nie potrzeba mi już więcej wrogów
++Za wiele czasu poszło na marne
++Kiedy patrzę teraz na to bardziej z boku
++Widzę że to było czasem gówno warte
++Za wiele przepychanek bez sensu
++Tylko się szarpię w miejscu
++Zamiast wykorzystać szansę
++Złapać tę falę i biec w przód
++Dzień już tak nie jest dla nas łaskawy
++Jak wtedy gdy byliśmy dziećmi wierz mi
++Mamy teraz o wiele ważniejsze sprawy
++Świat się już z nami nie pieści kiedy
++Rano patrzę na swoją twarz w lustrze
++Mówię sobie sam „masz dar skup się"
++Weź się w garść i każdego dnia
++Pracuj na ten plon który zbierzesz pojutrze
++Niewiele osiągniesz w sekundę
++W tyle gasną ci co sprzedają skórę
++Przestań się dziwić że masz ciągle pod górkę
++Skoro się pchasz na samą górę
++Chcesz umrzeć? To możesz zawsze
++Ale jaki to ma sens skoro
++Pewnego dnia to cię i tak dopadnie
++To jest poza twoją kontrolą
+\ No newline at end of file
+
+
+Co będzie jutro tego nie wie z nas nikt nikt
+Bywa trudno nim się wejdzie na szczyt szczyt
+Nie jest za późno póki tlen jest we krwi
+Nie wiem co myślisz ty
+Mi jest żal tych zmarnowanych dni
+
+Chcę ujrzeć świt nie chcę umrzeć dziś
+Chcę ujrzeć świt nie chcę umrzeć nie dziś
+Chcę ujrzeć świt nie chcę umrzeć dziś
+Chcę ujrzeć świt chcę ujrzeć świt świt
+
+Co będzie jutro tego nie wie z nas nikt nikt
+Bywa trudno nim się wejdzie na szczyt szczyt
+Nie jest za późno póki tlen jest we krwi
+Nie wiem co myślisz ty
+Mi jest żal tych zmarnowanych dni
+
+
+commit 9d4739b0a68123ecdd9367d62a1386bf834722a2
+Author: Marta Skibicka <marta.skibicka.contact@gmail.com>
+Date:   Thu Apr 29 20:13:58 2021 +0200
+
+    przeniesienie drugiej zwrotki
+
+diff --git a/zwrotka2.txt b/zwrotka2.txt
+new file mode 100644
+index 0000000..5bff585
+--- /dev/null
++++ b/zwrotka2.txt
+@@ -0,0 +1,23 @@
++Ty to nazwij jak chcesz potrzebuję detoksu rezurekcji
++Potrzebny mi lek choć kropla porządku
++W morzu chaosu który już mnie męczy
++Mam dosyć już marnowania energii na bzdety bez znaczenia
++Zbyt wiele rzeczy nie daje mi nic
++A tylko coś ze mnie zabiera
++Za moment mi stuknie trzydziestka
++I sam siebie pytam „co dalej"
++Nie jestem durniem z osiedla
++Wiem, że mam talent
++Dlatego tak łatwo się nie poddaję
++Ale czasem już naprawdę w to wątpię
++Gdy wkładam w to pracę uwagę i forsę
++I chociaż udaję że jest dobrze
++Czuję coraz bardziej to że źle skończę stop
++Potrzebny mi oddech
++Bo naprawdę mnie to gówno zabije
++Potrzebuję siebie z powrotem
++I znam też niejedną osobę
++Która cieszy się z tego że żyje
++Przemierzyłem sam w najciemniejsze noce największy las
++Nie wiem czy było warto to nie przyszło łatwo
++Ale teraz chcę wyjść na światło dnia
+\ No newline at end of file
+
+
+commit ea311ca9672a5d60aa019c3dd1e09d4b6c2f611a
+Author: Marta Skibicka <marta.skibicka.contact@gmail.com>
+Date:   Thu Apr 29 20:14:41 2021 +0200
+
+    przeniesienie drugiego refrenu
+
+diff --git a/refren2.txt b/refren2.txt
+new file mode 100644
+index 0000000..bd1b2c0
+--- /dev/null
++++ b/refren2.txt
+@@ -0,0 +1,10 @@
++Co będzie jutro tego nie wie z nas nikt nikt
++Bywa trudno nim się wejdzie na szczyt szczyt
++Nie jest za późno póki tlen jest we krwi
++Nie wiem co myślisz ty
++Mi jest żal tych zmarnowanych dni
++
++Chcę ujrzeć świt nie chcę umrzeć dziś
++Chcę ujrzeć świt nie chcę umrzeć nie dziś
++Chcę ujrzeć świt nie chcę umrzeć dziś
++Chcę ujrzeć świt chcę ujrzeć świt świt
+\ No newline at end of file
+
+
+commit c46a039d90275edc0aed58bfe3077c6a775580d0
+Author: Marta Skibicka <marta.skibicka.contact@gmail.com>
+Date:   Thu Apr 29 20:15:25 2021 +0200
+
+    przeniesienie trzeciej zwrotki
+
+diff --git a/zwrotka3.txt b/zwrotka3.txt
+new file mode 100644
+index 0000000..36882dd
+--- /dev/null
++++ b/zwrotka3.txt
+@@ -0,0 +1,23 @@
++Jeżeli byłeś tu gdzie ja albo nadal tu jesteś
++Jeśli patrząc na siebie mówisz
++„To już nie ja umarło coś we mnie i nic mi się nie chce"
++Nim zaciśniesz tę pętlę na szyi
++Połkniesz te kilka tabletek w chwili
++Kiedy cię dopada zwątpienie wylicz
++Choć jeden raz kiedy świat cię zadziwił
++Wiem czasem to wredny skurwiel
++Raczej nie siedzi potulnie
++I kiedy już plecak masz pełen wkurwień
++Dorzuci chętnie furie
++Cóż tak już jest
++Nie szukam w tym głębszego sensu
++Wkurwiam się też
++Ale trzeba to przyjmować po męsku
++Jak chce się przyglądać pięknu
++Jak chce się oglądać dzień
++Czasami trzeba pokonać sporo lęków
++Czasami dostać w łeb
++I to jest okej chociaż czasem to trudne
++To nas uczy pokory
++Wszystko czasami i dla mnie jest szarobure
++Trzeba chcieć ujrzeć kolory
+\ No newline at end of file
+
+
+commit ebd7b88c4f9abedb7f92de926a9bb74551296925
+Author: Marta Skibicka <marta.skibicka.contact@gmail.com>
+Date:   Thu Apr 29 20:16:03 2021 +0200
+
+    przeniesienie trzeciego refrenu
+
+diff --git a/refren3.txt b/refren3.txt
+new file mode 100644
+index 0000000..15c2476
+--- /dev/null
++++ b/refren3.txt
+@@ -0,0 +1,16 @@
++Co będzie jutro tego nie wie z nas nikt nikt
++Bywa trudno nim się wejdzie na szczyt szczyt
++Nie jest za późno póki tlen jest we krwi
++Nie wiem co myślisz ty
++Mi jest żal tych zmarnowanych dni
++
++Chcę ujrzeć świt nie chcę umrzeć dziś
++Chcę ujrzeć świt nie chcę umrzeć nie dziś
++Chcę ujrzeć świt nie chcę umrzeć dziś
++Chcę ujrzeć świt chcę ujrzeć świt świt
++
++Co będzie jutro tego nie wie z nas nikt nikt
++Bywa trudno nim się wejdzie na szczyt szczyt
++Nie jest za późno póki tlen jest we krwi
++Nie wiem co myślisz ty
++Mi jest żal tych zmarnowanych dni
+\ No newline at end of file

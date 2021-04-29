@@ -1,0 +1,29 @@
+commit ebd7b88c4f9abedb7f92de926a9bb74551296925
+Author: Marta Skibicka <marta.skibicka.contact@gmail.com>
+Date:   Thu Apr 29 20:16:03 2021 +0200
+
+    przeniesienie trzeciego refrenu
+
+diff --git a/refren3.txt b/refren3.txt
+new file mode 100644
+index 0000000..15c2476
+--- /dev/null
++++ b/refren3.txt
+@@ -0,0 +1,16 @@
++Co będzie jutro tego nie wie z nas nikt nikt
++Bywa trudno nim się wejdzie na szczyt szczyt
++Nie jest za późno póki tlen jest we krwi
++Nie wiem co myślisz ty
++Mi jest żal tych zmarnowanych dni
++
++Chcę ujrzeć świt nie chcę umrzeć dziś
++Chcę ujrzeć świt nie chcę umrzeć nie dziś
++Chcę ujrzeć świt nie chcę umrzeć dziś
++Chcę ujrzeć świt chcę ujrzeć świt świt
++
++Co będzie jutro tego nie wie z nas nikt nikt
++Bywa trudno nim się wejdzie na szczyt szczyt
++Nie jest za późno póki tlen jest we krwi
++Nie wiem co myślisz ty
++Mi jest żal tych zmarnowanych dni
+\ No newline at end of file
