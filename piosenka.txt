@@ -1,17 +1,7 @@
 zwrotka1.txt
 refren1.txt
 zwrotka2.txt
-
-Co będzie jutro tego nie wie z nas nikt nikt
-Bywa trudno nim się wejdzie na szczyt szczyt
-Nie jest za późno póki tlen jest we krwi
-Nie wiem co myślisz ty
-Mi jest żal tych zmarnowanych dni
-
-Chcę ujrzeć świt nie chcę umrzeć dziś
-Chcę ujrzeć świt nie chcę umrzeć nie dziś
-Chcę ujrzeć świt nie chcę umrzeć dziś
-Chcę ujrzeć świt chcę ujrzeć świt świt
+refren2.txt
 
 Jeżeli byłeś tu gdzie ja albo nadal tu jesteś
 Jeśli patrząc na siebie mówisz
